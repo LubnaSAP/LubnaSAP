@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LubnaSAP
+- 👋 Hi, I’m @LubnaSAP AKA Lubna Abdul.
 - 👀 I’m interested in Computational Cognitive Neurocience, parallely I also apply some Machine learning tools to Neuroscience in an attemtp to further invetsigate cognitve behaviours or neural patterns. 
 - 🌱 I’m currently learning about:
     - 1) the computations behind Episodic Inference Memory model.
